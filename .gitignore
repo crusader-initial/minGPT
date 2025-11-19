@@ -5,3 +5,5 @@ __pycache__/
 .pylintrc
 
 .venv/
+out/
+minGPT.egg-info/
